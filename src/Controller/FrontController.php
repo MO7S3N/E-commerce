@@ -17,4 +17,25 @@ class FrontController extends AbstractController
             'controller_name' => 'FrontController',
         ]);
     }
+
+    /**
+     * @Route("/search", name="front_search")
+     */
+    public function custom_search(): Response
+    {
+        return $this->render('front/custom.search.html.twig', [
+            'controller_name' => 'FrontController',
+        ]);
+    }
+
+    /**
+     * @Route("/magazin", name="front_magazin")
+     */
+    public function magazin(): Response
+    {
+        return $this->render('front/magazin.html.twig', [
+            'controller_name' => 'FrontController',
+        ]);
+    }
+
 }
