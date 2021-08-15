@@ -21,11 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b8b1ca6c-fdcf-4b37-a939-9561668026f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/FrontOffice.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/FrontOffice.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/front/parts/Header.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/front/parts/Header.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/front/parts/banner.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/front/parts/banner.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/front/parts/footer.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/front/parts/footer.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/front/parts/map.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/front/parts/map.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,6 +193,9 @@
       <recent name="C:\Users\mohsen\PhpstormProjects\e_commerce\public\Backend" />
       <recent name="C:\Users\mohsen\PhpstormProjects\e_commerce\public" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Symfony Projects\E-commerce\public\img\hero" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -212,7 +213,7 @@
       <updated>1628948354087</updated>
       <workItem from="1628948355179" duration="488000" />
       <workItem from="1628949988405" duration="4639000" />
-      <workItem from="1628971865048" duration="2923000" />
+      <workItem from="1628971865048" duration="5642000" />
     </task>
     <servers />
   </component>
